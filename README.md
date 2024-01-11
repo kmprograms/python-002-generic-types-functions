@@ -1,6 +1,6 @@
 ## Jak używać funkcji generycznych w Python 3.12 + Zagadka na końcu
 
-### [Obejrzyj Nagranie Na Moim Kanale YT](https://youtu.be/8N-Vy6nzYJU)
+### [Obejrzyj Nagranie Na Moim Kanale YT](https://youtu.be/8N-Vy6nzYJU?si=NsVOBrnWtKzRuvku)
 ### [Strona KM Programs](https://km-programs.pl/)
 ### [Discord KM Programs](https://discord.com/invite/a6SXsjjBMx)
 ### [Webinar KM Programs](https://km-programs.pl/webinar/)
